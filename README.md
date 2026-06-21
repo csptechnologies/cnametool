@@ -7,5 +7,7 @@ Caller Name lookup tool using the CSP API
 Self Host:
 
 ```git clone https://github.com/csptechnologies/cnametool.git```
+
 ```pip3 install requests flask```
+
 ```python3 main.py```
